@@ -20,7 +20,7 @@
 <!--Intro start-->
 - ☁️ 2nd year software developer at **ROC ter AA in Helmond.**
   
-- 🔭 I’m currently working on **Azure, Laravel, Magento and Unity**
+- 🔭 I’m currently working on projects including **Azure, Laravel, Magento and Unity**
 
 - 🌱 I’m currently learning **to model on Blender for my Unity projects.**
 
