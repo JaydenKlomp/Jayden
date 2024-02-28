@@ -117,5 +117,9 @@
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+<p align="center">
 Last Edited on: 27/2/2024
+<br>
+  <br>
+ <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=JaydenKlomp&amp;label=Profile%20Views&amp;color=2&amp;pretty=true" alt=""></a>
+</p>
