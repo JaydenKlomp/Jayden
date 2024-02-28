@@ -26,7 +26,7 @@
 
 - 🥇 Winner of **Hackathon Masters Tilburg 2023**
 
-- 📫 Feel free to reach me out **jaydenklomp@gmail.com**
+- 📫 Feel free to reach out: **jaydenklomp@gmail.com**
 <!--Intro end-->
 
 <br>
