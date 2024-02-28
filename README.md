@@ -24,6 +24,8 @@
 
 - 🌱 I’m currently learning **to model on Blender for my Unity projects.**
 
+- 🥇 Winner of **Hackathon Masters Tilburg 2023**
+
 - 📫 Feel free to reach me out **jaydenklomp@gmail.com**
 <!--Intro end-->
 
