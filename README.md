@@ -22,9 +22,9 @@
   
 - 🔭 I’m currently working on projects including **Azure, Laravel, Magento and Unity**
 
-- 🌱 I’m currently learning **to model on Blender for my Unity projects.**
+- ⭐ I’m currently learning **to model on Blender for my Unity projects.**
 
-- 🥇 Winner of **Hackathon Masters Tilburg 2023**
+- 🥇 Winner of the **6th Hackathon Masters Tilburg 2023**
 
 - 📫 Feel free to reach out: **jaydenklomp@gmail.com**
 <!--Intro end-->
