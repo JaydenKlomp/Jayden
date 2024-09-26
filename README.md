@@ -77,25 +77,6 @@
 
 <br>
 <br>
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ae,xd,ps,anaconda,androidstudio,arduino,aws,azure,blender,bootstrap,c,cs,cpp,cloudflare,codepen,css,discord,docker,dotnet,vue,figma,gcp,git,github,html,java,js,jquery,laravel,ts,mysql,npm,php,py,stackoverflow,unity,unreal,visualstudio,vscode,phpstorm,windows,linux&perline=14" />
-  </a>
-</p>
-<br>
-<br>
-
------
-
-<br>
-<br>
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
